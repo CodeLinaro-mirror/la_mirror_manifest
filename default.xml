@@ -2399,6 +2399,7 @@
   <project name="platform/packages/services/QualifiedNetworksService" />
   <project name="platform/packages/services/Telecomm" />
   <project name="platform/packages/services/Telephony" />
+  <project name="platform/packages/services/display_safety" />
   <project name="platform/packages/wallpapers/Basic" />
   <project name="platform/packages/wallpapers/Galaxy4" />
   <project name="platform/packages/wallpapers/HoloSpiral" />
