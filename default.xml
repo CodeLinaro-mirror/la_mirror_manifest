@@ -2295,6 +2295,7 @@
   <project name="platform/packages/apps/UniversalMediaPlayer" />
   <project name="platform/packages/apps/Updater" />
   <project name="platform/packages/apps/VideoEditor" />
+  <project name="platform/packages/apps/VirtualGamepad" />
   <project name="platform/packages/apps/VoiceDialer" />
   <project name="platform/packages/apps/WallpaperPicker" />
   <project name="platform/packages/apps/WallpaperPicker2" />
