@@ -916,6 +916,7 @@
   <project name="platform/external/junit-params" />
   <project name="platform/external/jxmpp" />
   <project name="platform/external/kernel-headers" />
+  <project name="platform/external/keyattestation" />
   <project name="platform/external/kmod" />
   <project name="platform/external/kotlin-compose-compiler" />
   <project name="platform/external/kotlin.metadata" />
