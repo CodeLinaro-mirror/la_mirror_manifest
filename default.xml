@@ -719,6 +719,7 @@
   <project name="platform/external/eyes-free" />
   <project name="platform/external/f2fs-tools" />
   <project name="platform/external/faad" />
+  <project name="platform/external/failsafe" />
   <project name="platform/external/fastrpc" />
   <project name="platform/external/fat32lib" />
   <project name="platform/external/fbjni" />
