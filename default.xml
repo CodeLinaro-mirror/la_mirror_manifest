@@ -939,6 +939,7 @@
   <project name="platform/external/lfi/fadec" />
   <project name="platform/external/lfi/lfi-bind" />
   <project name="platform/external/lfi/lfi-runtime" />
+  <project name="platform/external/lfi/lfi-verifier" />
   <project name="platform/external/libabigail" />
   <project name="platform/external/libaom" />
   <project name="platform/external/libavc" />
