@@ -1171,6 +1171,7 @@
   <project name="platform/external/parameter-framework" />
   <project name="platform/external/patchelf" />
   <project name="platform/external/pciutils" />
+  <project name="platform/external/pcollections" />
   <project name="platform/external/pcre" />
   <project name="platform/external/pdfium" />
   <project name="platform/external/perf_data_converter" />
