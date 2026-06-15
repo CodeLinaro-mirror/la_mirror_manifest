@@ -2810,6 +2810,7 @@
   <project name="platform/system/software_defined_vehicle/update_manager" />
   <project name="platform/system/software_defined_vehicle/vsidl" />
   <project name="platform/system/usb" />
+  <project name="platform/system/weaver" />
   <project name="platform/tools/rootcanal" />
   <project name="platform/system/secretkeeper" />
   <project name="platform/system/secure_element" />
