@@ -2744,6 +2744,7 @@
   <project name="platform/system/dmesgd" />
   <project name="platform/system/extras" />
   <project name="platform/system/firewalld" />
+  <project name="platform/system/fs/casefolding_remover" />
   <project name="platform/system/gatekeeper" />
   <project name="platform/system/gsid" />
   <project name="platform/system/hardware/interfaces" />
