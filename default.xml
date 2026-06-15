@@ -491,6 +491,7 @@
   <project name="platform/external/android_onboarding" />
   <project name="platform/external/androidplot" />
   <project name="platform/external/angle" />
+  <project name="platform/external/animal-sniffer" />
   <project name="platform/external/annotation-tools" />
   <project name="platform/external/anonymous-counting-tokens" />
   <project name="platform/external/ant-glob" />
