@@ -2758,6 +2758,7 @@
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
   <project name="platform/system/keymint" />
+  <project name="platform/system/lfi" />
   <project name="platform/system/libartpalette" />
   <project name="platform/system/libbase" />
   <project name="platform/system/libcppbor" />
