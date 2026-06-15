@@ -2798,6 +2798,7 @@
   <project name="platform/system/software_defined_vehicle/common" />
   <project name="platform/system/software_defined_vehicle/health_monitor" />
   <project name="platform/system/software_defined_vehicle/lifecycle_management" />
+  <project name="platform/system/software_defined_vehicle/middleware" />
   <project name="platform/tools/rootcanal" />
   <project name="platform/system/secretkeeper" />
   <project name="platform/system/secure_element" />
