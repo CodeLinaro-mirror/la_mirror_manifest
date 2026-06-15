@@ -2246,6 +2246,7 @@
   <project name="platform/packages/apps/Launcher2" />
   <project name="platform/packages/apps/Launcher3" />
   <project name="platform/packages/apps/LegacyCamera" />
+  <project name="platform/packages/apps/Login" />
   <project name="platform/packages/apps/ManagedProvisioning" />
   <project name="platform/packages/apps/Messaging" />
   <project name="platform/packages/apps/Mms" />
