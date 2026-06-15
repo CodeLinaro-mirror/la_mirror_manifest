@@ -2321,6 +2321,7 @@
   <project name="platform/packages/modules/DeviceLock" />
   <project name="platform/packages/modules/DnsResolver" />
   <project name="platform/packages/modules/ExtServices" />
+  <project name="platform/packages/modules/GenericBootstrappingArchitecture" />
   <project name="platform/packages/modules/GeoTZ" />
   <project name="platform/packages/modules/Gki" />
   <project name="platform/packages/modules/HealthFitness" />
