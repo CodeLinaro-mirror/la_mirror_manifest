@@ -1218,6 +1218,7 @@
   <project name="platform/external/python/ecdsa" />
   <project name="platform/external/python/enum" />
   <project name="platform/external/python/enum34" />
+  <project name="platform/external/python/fdt" />
   <project name="platform/external/python/funcsigs" />
   <project name="platform/external/python/future" />
   <project name="platform/external/python/futures" />
