@@ -390,6 +390,7 @@
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/x86-64" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.12/arm64" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.12/x86-64" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.18/arm64" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.6/arm64" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.6/x86-64" />
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" />
