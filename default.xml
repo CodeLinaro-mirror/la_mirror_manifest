@@ -2803,6 +2803,7 @@
   <project name="platform/system/software_defined_vehicle/platform" />
   <project name="platform/system/software_defined_vehicle/samples" />
   <project name="platform/system/software_defined_vehicle/sdv_gateway" />
+  <project name="platform/system/software_defined_vehicle/service_bundles_registry" />
   <project name="platform/tools/rootcanal" />
   <project name="platform/system/secretkeeper" />
   <project name="platform/system/secure_element" />
