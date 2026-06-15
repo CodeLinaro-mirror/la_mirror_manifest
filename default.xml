@@ -949,6 +949,7 @@
   <project name="platform/external/libbpf" />
   <project name="platform/external/libbrillo" />
   <project name="platform/external/libburnia/libburn" />
+  <project name="platform/external/libburnia/libisoburn" />
   <project name="platform/external/libc-test" />
   <project name="platform/external/libcamera" />
   <project name="platform/external/libcap" />
