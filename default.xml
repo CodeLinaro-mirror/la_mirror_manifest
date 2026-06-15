@@ -2662,6 +2662,7 @@
   <project name="platform/prebuilts/module_sdk/ThreadNetwork" />
   <project name="platform/prebuilts/module_sdk/UprobeStats" />
   <project name="platform/prebuilts/module_sdk/Uwb" />
+  <project name="platform/prebuilts/module_sdk/WebApp" />
   <project name="platform/prebuilts/module_sdk/WebViewBootstrap" />
   <project name="platform/prebuilts/module_sdk/Wifi" />
   <project name="platform/prebuilts/module_sdk/art" />
