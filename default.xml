@@ -2778,6 +2778,7 @@
   <project name="platform/system/logging" />
   <project name="platform/system/media" />
   <project name="platform/system/memory/amemdiff" />
+  <project name="platform/system/memory/guardian" />
   <project name="platform/system/memory/libdmabufheap" />
   <project name="platform/system/memory/libion" />
   <project name="platform/system/memory/libmeminfo" />
