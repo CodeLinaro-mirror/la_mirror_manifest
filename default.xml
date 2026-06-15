@@ -2767,6 +2767,7 @@
   <project name="platform/system/libhwbinder" />
   <project name="platform/system/libprocinfo" />
   <project name="platform/system/librustutils" />
+  <project name="platform/system/libskuconfig" />
   <project name="platform/system/libsysprop" />
   <project name="platform/system/libueventd-rs" />
   <project name="platform/system/libufdt" />
