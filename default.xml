@@ -128,6 +128,7 @@
   <project name="device/google/redfin-kernel" />
   <project name="device/google/redfin-sepolicy" />
   <project name="device/google/sdv" />
+  <project name="device/google/sdv_display_safety" />
   <project name="device/google/shusky" />
   <project name="device/google/shusky-kernel" />
   <project name="device/google/shusky-kernels/5.15" />
