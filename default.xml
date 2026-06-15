@@ -2694,6 +2694,7 @@
   <project name="platform/prebuilts/rust-toolchain/windows-x86" />
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/simpleperf" />
+  <project name="platform/prebuilts/siso" />
   <project name="platform/prebuilts/studio/jdk" />
   <project name="platform/prebuilts/studio/layoutlib" />
   <project name="platform/prebuilts/studio/skiaparser" />
