@@ -1156,6 +1156,7 @@
   <project name="platform/external/openthread" />
   <project name="platform/external/openvpn" />
   <project name="platform/external/openwrt-prebuilts" />
+  <project name="platform/external/openxr-sdk" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/optee/apps" />
   <project name="platform/external/opus-experimental" />
