@@ -2336,6 +2336,7 @@
   <project name="platform/packages/modules/NetworkStack" />
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/Nfc" />
+  <project name="platform/packages/modules/NpuManager" />
   <project name="platform/packages/modules/OnDevicePersonalization" />
   <project name="platform/packages/modules/Permission" />
   <project name="platform/packages/modules/PermissionController" />
