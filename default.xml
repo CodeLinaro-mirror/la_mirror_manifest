@@ -901,6 +901,7 @@
   <project name="platform/external/jline" />
   <project name="platform/external/jmdns" />
   <project name="platform/external/jmonkeyengine" />
+  <project name="platform/external/jmustache" />
   <project name="platform/external/jpeg" />
   <project name="platform/external/jsilver" />
   <project name="platform/external/jsmn" />
