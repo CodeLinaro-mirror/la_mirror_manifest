@@ -2080,6 +2080,7 @@
   <project name="platform/hardware/nvidia/tegra124" />
   <project name="platform/hardware/nxp/keymint" />
   <project name="platform/hardware/nxp/nfc" />
+  <project name="platform/hardware/nxp/nxp_mcu_loader" />
   <project name="platform/hardware/nxp/secure_element" />
   <project name="platform/hardware/nxp/uwb" />
   <project name="platform/hardware/nxp/weaver" />
