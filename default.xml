@@ -2973,6 +2973,7 @@
   <project name="toolchain/gcc" />
   <project name="toolchain/gcc-12.2.0" />
   <project name="toolchain/gdb" />
+  <project name="toolchain/glibc" />
   <project name="toolchain/gmp" />
   <project name="toolchain/gmp-6.2.1" />
   <project name="toolchain/gold" />
