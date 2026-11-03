@@ -2430,6 +2430,7 @@
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
   <project name="platform/prebuilts/android-emulator-build/qt" />
   <project name="platform/prebuilts/android-emulator-build/system-images" />
+  <project name="platform/prebuilts/androidx/android-cli" />
   <project name="platform/prebuilts/androidx/chrome-for-testing" />
   <project name="platform/prebuilts/androidx/credentials" />
   <project name="platform/prebuilts/androidx/exoplayer" />
