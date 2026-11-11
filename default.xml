@@ -2681,6 +2681,7 @@
   <project name="platform/prebuilts/ninja/linux-arm64" />
   <project name="platform/prebuilts/ninja/linux-x86" />
   <project name="platform/prebuilts/ninja/windows-x86" />
+  <project name="platform/prebuilts/profgen" />
   <project name="platform/prebuilts/protobuf" />
   <project name="platform/prebuilts/python/darwin-x86" path="platform/prebuilts/python/darwin-x86.git" />
   <project name="platform/prebuilts/python/darwin-x86/2.7.5" />
